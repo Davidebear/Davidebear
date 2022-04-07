@@ -1,4 +1,4 @@
-I’m @Davidebear: An undergraduate student interested in the junction of medicine, engineering, and computer science.
+I’m @Davidebear: An undergraduate student interested in the junction of medicine, engineering, and computer science. </br>
 Currently Assimilating: Blender
  
  dbeardene@gmail.com
