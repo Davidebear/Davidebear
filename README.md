@@ -1,4 +1,4 @@
-I’m @Davidebear: An undergraduate student interested in the junction of medicine, engineering, and machine learning. </br>
+@Davidebear: An undergraduate student pursuing discoveries in the junction of medicine, engineering, and ML. </br>
  
  david.bearden@duke.edu
 
