@@ -1,4 +1,4 @@
-@Davidebear: An undergraduate student pursuing discoveries in the junction of medicine, engineering, and ML. </br>
+@Davidebear
  
  david.bearden@duke.edu
 
